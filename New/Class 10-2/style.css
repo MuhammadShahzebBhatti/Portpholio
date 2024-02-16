@@ -1,0 +1,119 @@
+body{
+    background-color:rgba(16, 30, 59, 0.966);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size:3em; 
+    font-weight: 300;
+    text-align: center;
+    color: #4DC3FA;
+}
+h3 {
+    font-size:1em; 
+    font-weight: 200;
+    text-align: center;
+    color:rgba(236, 62, 62, 0.918);
+}
+table,td,th{
+    
+    text-align: center;
+    margin: auto;
+    font-size: larger;
+    height: 50px;
+    width: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align:left;
+    
+    
+}
+.td{
+    color: white;
+      
+}
+th{
+    color: rgba(81, 167, 167, 0.692);
+    background-color:rgba(16, 30, 59, 0.966);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    padding-left: 2%;
+            
+}
+.dt2{
+    color: rgb(184, 177, 177);
+    background-color: rgb(95, 93, 97);
+    padding-left: 2%;
+}
+.google{
+    color: rgba(236, 62, 62, 0.918);
+    word-spacing: 2pc;
+    text-align: left;
+    background-color: rgb(95, 93, 97);
+    border: 5px;
+    padding-left: 2%;
+}
+.Twitter{
+    color: rgba(236, 62, 62, 0.918);
+    background-color:  rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+.Amazon{
+    color: rgba(236, 62, 62, 0.918);
+    background-color:  rgba(52, 69, 104, 0.822);
+    padding-left: 2%;
+}
+.Linkedln{
+    color: rgba(236, 62, 62, 0.918);
+    background-color:  rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+.CodePen{
+    color: rgba(236, 62, 62, 0.918);
+    background-color:  rgba(52, 69, 104, 0.781);
+    padding-left: 2%;
+}
+.GitHub{
+    color: rgba(236, 62, 62, 0.918);
+    background-color:  rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+.dt1{
+    color: rgb(184, 177, 177);
+    background-color: rgb(95, 93, 97);
+    padding-left: 2%;
+}
+.dt3{
+    color: rgb(184, 177, 177);
+    background-color: rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+.dt4{
+    color: rgb(184, 177, 177);
+    background-color:  rgba(52, 69, 104, 0.781);
+    padding-left: 2%;
+}
+.dt5{
+    color: rgb(184, 177, 177);
+    background-color: rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+.dt6{
+    color: rgb(184, 177, 177);
+    background-color:  rgba(52, 69, 104, 0.781);
+    padding-left: 2%;
+}
+.dt7{
+    color: rgb(184, 177, 177);
+    background-color: rgba(42, 56, 85, 0.747);
+    padding-left: 2%;
+}
+td:hover{
+    background-color: yellow;
+    transition: 1s;
+    font-weight: bold;
+    box-shadow: #7F7C21 -1px 1px,;
+    transform:translate3d(6px, -6px, 0);
+    color: black;
+    
+}

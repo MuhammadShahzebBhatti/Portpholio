@@ -1,0 +1,118 @@
+*.{
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+div{
+    color: white;
+}
+li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+nav{
+    display: flex;
+    width: 700px;
+    /* border: 1px solid white; */
+    justify-content: space-around;
+    
+    color: white;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid blue; */
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.web{
+    display: flex;
+    width: 100px;
+    
+}
+.bunner{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    border: 1px solid wheat;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.pic{
+    display: flex;
+    width: 350px;
+    height: 350px;
+    
+}
+h3{
+    font-size: x-large;
+    color: rgb(221, 118, 22);
+}
+h5{
+    font-size: xx-large;
+    color: blue;
+}
+h4{
+    color: white;
+}
+p{
+    font-size: larger;
+    margin-top: -50px;
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0px;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    height: 300px;
+    border: 1px solid wheat;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.html, .css, .bootstrap{
+    display:  flex;
+    flex-direction: column;
+    width: 180px;
+    align-items: center;
+}
+.Projects{
+    width: 900px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Ludo, .Table1, .Table2{
+    display:  flex;
+    flex-direction: row;
+    width: 180px;
+    align-items: center;
+    
+}
+.lp, .T1, .T2{
+    display: flex;
+    width: 150px;
+}
